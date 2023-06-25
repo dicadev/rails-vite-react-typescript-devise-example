@@ -1,3 +1,4 @@
-web: bin/rails server -p 3000
-css: bin/rails tailwindcss:watch
+web: bundle exec rails s -p 3000
 vite: cd frontend && npm run dev
+css: bin/rails tailwindcss:watch
+config/storage.yml

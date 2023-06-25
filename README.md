@@ -76,7 +76,6 @@ Home page after signing up
 #### 1. Add Tailwind CSS to the project
     $ bundler add tailwindcss-rails
     $ rails tailwindcss:install
-    $ 
     
 ### Set up Vite with React and Typescript
 #### 1. Create a new vite project
